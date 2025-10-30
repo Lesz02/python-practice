@@ -2,6 +2,5 @@
 colombia = int(input("Pesos: "))
 peru = int(input("Soles: "))
 brazil = int(input("Reais: "))
-
 total_usd = colombia * 0.00026 + peru * 0.31 + brazil * 0.19
 print(total_usd)
