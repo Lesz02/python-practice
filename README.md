@@ -1,16 +1,10 @@
 # Codedex Python Exercises
 
-This repository contains my completed exercises and projects from the [Codedex Python course](https://www.codedex.io/).
+This repository contains a collection of short programming exercises completed from the [Codedex Python course](https://www.codedex.io/).
 
-Each folder corresponds to a topic from the course (basics, flow control, loops, functions, etc.).  
-These files document my progress as I build a foundation in Python programming during my MSc Computer Science (Conversion) at Queen Mary University of London.
+Each file represents a small standalone task designed to strengthen my understanding of Python fundamentals.  
+The exercises cover a range of topics, including variables, loops, flow control, functions, and more — often overlapping and building on one another.
 
-## Structure
-- 01_basics/
-- 02_flow_control/
-- 03_loops/
-- 04_functions/
-- 05_files/
+These scripts document my progress as I learn Python during my MSc Computer Science (Conversion) at Queen Mary University of London.
 
-More exercises and improvements will be added as I continue through the track.
 
